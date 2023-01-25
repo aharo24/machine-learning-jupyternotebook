@@ -1,7 +1,5 @@
 # machine_learning_data_science
 
-
-# machine-learning
 ### [my notes](https://github.com/aharo24/opensource/tree/main/machine-learning)
 ...Over 8,000 lines of markdown notes on machine-learning.
 
